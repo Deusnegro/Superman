@@ -10,6 +10,12 @@ The Superman tool is a proxy tool and has the ability to create a proxy list. Th
  </a>
    
  <a href="https://en.wikipedia.org/wiki/SOCKS">
-    <img src="https://img.shields.io/badge/SOCKS-v4-red" >
+    <img src="https://img.shields.io/badge/SOCKS-4-red" >
  </a>
+ 
+ <a href="https://en.wikipedia.org/wiki/SOCKS">
+    <img src="https://img.shields.io/badge/SOCKS-5-black" >
+ </a>
+ 
+ 
        
