@@ -66,6 +66,6 @@ The Superman tool is a proxy tool and has the ability to create a proxy list. Th
 git clone https://github.com/Deusnegro/Superman.git
 cd Superman
 pip3 install -r requirements.txt
-Run => 
+Run => Superman.py
 ```
 
