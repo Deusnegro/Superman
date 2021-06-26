@@ -4,8 +4,12 @@ The Superman tool is a proxy tool and has the ability to create a proxy list. Th
 <h4 align="center"></h4>
 
 <p align="center">
+ 
  <a href="http://python.org">
     <img src="https://img.shields.io/badge/python-v3.9.5-blue" >
-  </a>
+ </a>
    
+ <a href="https://en.wikipedia.org/wiki/SOCKS">
+    <img src="https://img.shields.io/badge/SOCKS-v4-red" >
+ </a>
        
