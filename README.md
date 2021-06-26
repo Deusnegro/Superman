@@ -49,11 +49,13 @@ The Superman tool is a proxy tool and has the ability to create a proxy list. Th
 <h1 align="center">
     <a href="https://github.com/Deusnegro"><img src="https://s4.uupload.ir/files/henry-cavill-as-superman_70gm.jpg" alt="Superman"></a>
  </h1>
- ## Contact us
+  ## Contact us
  
 ```bash
-- Channel Telegram : https://t.me/EBlackHat
+- Channel Telegram : https://t.me/blackhatinfo
 - Backup section : https://t.me/Deusnegro
+- Instagram : https://www.instagram.com/omidranjbar.zed
+- My Team : https://github.com/Zeldasec
 ```
 
 
