@@ -32,6 +32,14 @@ The Superman tool is a proxy tool and has the ability to create a proxy list. Th
 <h1 align="center">
     <a href="https://github.com/Deusnegro"><img src="https://s4.uupload.ir/files/untitledaldsfmk_ushh.png" alt="Superman"></a>
  </h1>
+ 
+ 
+ #### Operating Systems Tested
+        
+- Windows 10
+- Windows 8.1
+- Linux 
+- Kali Linux
 
 
 
