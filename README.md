@@ -20,4 +20,26 @@ The Superman tool is a proxy tool and has the ability to create a proxy list. Th
  <h1 align="center">
     <a href="https://github.com/Deusnegro"><img src="https://s4.uupload.ir/files/superman-comic-break-wall_l7k9.jpg" alt="Superman"></a>
  </h1>
+ 
        
+#### Menu Tools
+ 
+  - Create Proxy HTTP and HTTPS
+  - Create Proxy SOCKS5
+  - Create Proxy SOCKS4
+
+
+<h1 align="center">
+    <a href="https://github.com/Deusnegro"><img src="https://s4.uupload.ir/files/henry-cavill-as-superman_ygbd.jpg" alt="Superman"></a>
+ </h1>
+
+
+
+
+
+
+
+
+
+
+
